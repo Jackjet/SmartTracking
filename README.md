@@ -6,7 +6,7 @@ ASP.NET MVC 版访客追踪
 用法示例
 =============
 
-
+'''
 <script type="text/javascript">
 	var _maq = _maq || [];
 	_maq.push(['_setAccount', 'SmartTracking']);
@@ -21,3 +21,4 @@ ASP.NET MVC 版访客追踪
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ma, s);
 	})();
 </script>
+'''
